@@ -84,7 +84,7 @@ manofx = Scale(root,
    cursor = 'dot',
    label = 'MANO')
 
-a=1
+a=2
 manofx.grid(column=4 , row = 2)
 
 root.mainloop()
